@@ -7,5 +7,6 @@ public class Demo {
 public void demo()
 {
 	System.out.println("demo created");
+	System.out.println("demo");
 }
 }
