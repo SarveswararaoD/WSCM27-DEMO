@@ -11,7 +11,11 @@ public class Sample1 {
 		System.out.println("sample deleted");
 		
 		
-		System.out.println("Sample 2");
+		System.out.println("Sample created");
+		
+		
+		
 	}
+	
 
 }
